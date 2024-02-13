@@ -1,4 +1,5 @@
 # Code written by Chen Xie, 2024.
+"This script is used to convert PIE annotations to COCO json format."
 import argparse
 import cv2
 import numpy as np
